@@ -28,6 +28,5 @@ public class Payroll {
         System.out.println("The employee, " + name + ", earns $" + payRate + " per hour and works "
                 + hours + " per week, making their salary $" + payRoll + " per year.");
 
-
     }
 }
